@@ -60,45 +60,44 @@ PARA 대시보드 도입 이후, 회사 업무에 많은 변화와 개선이 있
 # PARA대시보드 미리보기
 
 ### 티켓
-
-![프로젝트 별로 티켓을 확인할 수 있는 페이지](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/87f475e1-dcd7-4eaf-999f-802b3d90009a/Untitled.png)
+<img width="1189" alt="11" src="https://github.com/user-attachments/assets/06a57815-7827-4d02-bee7-ad38f1ed6ee2">
 
 프로젝트 별로 티켓을 확인할 수 있는 페이지
 
-![상위 티켓에 하위 티켓을 발행해 티켓을 구조적으로 관리 가능](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/d0c1f9fa-d8ef-4cb1-90a1-333909f91301/Untitled.png)
+<img width="788" alt="22" src="https://github.com/user-attachments/assets/119c223c-32fd-431b-b20a-9dbd4d8acce2">
 
 상위 티켓에 하위 티켓을 발행해 티켓을 구조적으로 관리 가능
 
-![티켓에는 자료를 첨부할 수 있어 개발에 필요한 자료를 요청 가능](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/d5304984-ecc0-44da-938f-33917871ff56/Untitled.png)
+<img width="898" alt="33" src="https://github.com/user-attachments/assets/a8d5fe15-e3af-48e5-a4b9-725575f079af">
 
 티켓에는 자료를 첨부할 수 있어 개발에 필요한 자료를 요청 가능
 
 ### 자료
 
-![개발과 관련된 자료를 정리하고 티켓 발행 시 링크를 걸 수 있음](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/9ddea4e4-cf2d-49a5-8274-c3cda9ce13a2/Untitled.png)
+<img width="751" alt="44" src="https://github.com/user-attachments/assets/cc4c8a65-1f42-4203-b2e7-d1d0c4c176af">
 
 개발과 관련된 자료를 정리하고 티켓 발행 시 링크를 걸 수 있음
 
 ### 메인화면
 
-![메인 화면으로 주요 사용하는 기능을 버튼형태로 최적화된 인터페이스 제공](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/fba3efb4-b048-42c2-ac5e-07c0d0ee66fb/Untitled.png)
+<img width="825" alt="55" src="https://github.com/user-attachments/assets/50616c4e-a3f7-4eca-948b-9127ef69928f">
 
 메인 화면으로 주요 사용하는 기능을 버튼형태로 최적화된 인터페이스 제공
 
 ### 프로젝트
 
-![프로젝트를 버전별로 관리 가능](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/0d04a884-5f43-482d-8760-a022a99f0972/Untitled.png)
+<img width="1157" alt="66" src="https://github.com/user-attachments/assets/4f8356ed-42c6-4039-ab3f-2e56503f3a14">
 
 프로젝트를 버전별로 관리 가능
 
 ### 부서
 
-![부서별 페이지 제공](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/894444b3-52ac-4fc7-8824-045566be364b/Untitled.png)
+<img width="1255" alt="77" src="https://github.com/user-attachments/assets/d357e2c2-25c2-4619-8786-859bd23438ba">
 
 부서별 페이지 제공
 
 ### 담당자 페이지
 
-![각 담당자별로 어떤 작업을 수행하고 있는지 실시간 확인 가능](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/9fd2df43-f4d8-414a-8a28-ee2bf9883d92/Untitled.png)
+<img width="1217" alt="88" src="https://github.com/user-attachments/assets/9fa4132a-92d4-414a-b456-196fdd24eb86">
 
 각 담당자별로 어떤 작업을 수행하고 있는지 실시간 확인 가능
