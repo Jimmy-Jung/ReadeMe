@@ -44,9 +44,10 @@
 
 ### **MVVM 아키텍처 설명**
 
-![6.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/97f5e99f-5d47-4a9d-994f-0f6d7eb9b8e6/6.png)
+![111](https://github.com/user-attachments/assets/964f4d12-233e-488a-8d29-a004f5600f3c)
 
-![3.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/18ce1f0f-86c4-4b90-beed-8ae718b9261e/ad975133-e2e4-4961-8d8a-fcefec42b364/3.png)
+![222](https://github.com/user-attachments/assets/fb46fca3-a1e6-41d5-8e3d-29e198581326)
+
 
 위 이미지는 MVVM (Model-View-ViewModel) 아키텍처를 기반으로 한 클래스 다이어그램을 나타내고 있습니다. 각 컴포넌트는 명확한 역할을 가지고 있으며, 이들 간의 상호작용을 통해 프로젝트의 구조를 체계적으로 구성합니다.
 
